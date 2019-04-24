@@ -63,4 +63,88 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Your code starts here! */
+/* Your code star ts here! */
+.nav-bar {
+	width:800px;
+	margin:auto;
+}
+header nav {
+	display: inline-block;
+	margin: 35px;
+}
+
+header img.logo {
+	margin-left: 500px;
+}
+header nav a {
+	margin:0 65px;
+}
+
+
+.quote {
+	display: inline-block;
+	width:100px;
+	margin:100px;
+}
+.logo2{
+	display: inline-block;
+	width:50px;
+	margin-left:1000px;
+	padding:0px;
+}
+
+.top-content { 
+	display: inline-block;
+}
+.features { 
+	display: inline-block;
+	width:300px;
+	margin:10px;
+	
+} 
+.about {  
+	display: inline-block;
+	width:300px;
+	margin-left: 800px;
+}
+.middle-img {
+	display: inline-block;
+	width: 1400px;
+	margin: 150px;
+}
+.bottom {
+	display: inline-block;
+	
+	
+	
+}
+.services {
+	display: inline-block;
+	width:325px;
+	margin:10px;
+	
+}
+
+.product  {
+	display: inline-block;
+	width:325px;
+	margin-left: 450px;
+}
+	
+	
+.vision  {
+	display: inline-block;
+	width:325px;
+	margin-left: 650px;
+	
+}
+h1 {
+	font-size: 100px;
+}
+.contact {
+	padding: 50px;
+	margin: 10px;
+}
+footer {
+	margin-left: 20px;
+}
